@@ -1,0 +1,60 @@
+
+All your books: [
+  Abnormal Zebra Book 1, 
+  Harry Potter Book 2, 
+  Zebra Sahara Book 3, 
+  Blue Zebra Is In Sahara Book 4, 
+  This Is Abnormal Book 5, 
+  Potter Abnormal Blue Book 6]
+
+Please enter your search. (Enter q to quit): 
+abn
+input: abn
+(Multi-name) You have 3 books: 
+[Abnormal Zebra Book 1, This Is Abnormal Book 5, Potter Abnormal Blue Book 6]
+
+abnormal
+input: abnormal
+You have 3 books: 
+[Abnormal Zebra Book 1, Potter Abnormal Blue Book 6, This Is Abnormal Book 5]
+
+zebra
+input: zebra
+You have 3 books: 
+[Abnormal Zebra Book 1, Blue Zebra Is In Sahara Book 4, Zebra Sahara Book 3]
+
+harry potter
+input: harry potter
+(Multi-name) You have 1 books: 
+[Harry Potter Book 2]
+
+This is Ab
+input: this is ab
+(Multi-name) You have 1 books: 
+[This Is Abnormal Book 5]
+
+blue
+input: blue
+You have 2 books: 
+[Blue Zebra Is In Sahara Book 4, Potter Abnormal Blue Book 6]
+
+Sahara
+input: sahara
+You have 2 books: 
+[Blue Zebra Is In Sahara Book 4, Zebra Sahara Book 3]
+
+Saharaaaaaa
+input: saharaaaaaa
+(Multi-name) You have 0 books: 
+[]
+Book not found, search again. (Enter q to quit)
+
+potter
+input: potter
+You have 2 books: 
+[Harry Potter Book 2, Potter Abnormal Blue Book 6]
+
+q
+input: q
+
+Process finished with exit code 0
